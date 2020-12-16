@@ -1,1 +1,3 @@
-Testing
+layout: page
+title: Fonnic
+permalink: /xs/fonnic.html
